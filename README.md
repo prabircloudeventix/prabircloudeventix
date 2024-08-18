@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabir Singh
 - 👀 I’m interested in Fullstack Development (Mobile & Web) & DevOps.
-- 🌱 I’m currently working as a  Technical Specialist.
+- 🌱 I’m currently working as a Technical Specialist @cloudeventix.
 
 
 <!---
