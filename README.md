@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Prabir Singh
-- 👀 I’m interested in Fullstack Development (Mobile & Web) & DevOps.
+- 👋 Hi, I’m Prabir Singh, a full-stack developer with over 5 years of experience.
+- 👀 I’m interested in JavaScript, TypeScript, React, Next.js, Node.js, and DevOps.
 - 🌱 I’m currently working as a Technical Specialist @cloudeventix.
+- 📫 Reach me at prabir@cloudeventix.com.
 
 
 <!---
